@@ -1,0 +1,7 @@
+{
+	"Break": {
+		"prefix": "break",
+		"body": "break;",
+		"description": "Keyword break"
+	}
+}

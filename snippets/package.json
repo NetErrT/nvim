@@ -1,0 +1,11 @@
+{
+	"name": "my very extremal useful snippets",
+	"contributes": {
+		"snippets": [
+			{
+				"language": [ "c" ],
+				"path": "./c.json"
+			}
+		]
+	}
+}
